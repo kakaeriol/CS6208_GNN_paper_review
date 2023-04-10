@@ -1,1 +1,15 @@
 # CS6208_GNN_paper_review
+This code re-implementation the idea of Weisfeiler - Lehman Graph Kernal in python [[1]](#1)
+
+- Adding the verbose optional which can see the change of each label graph in 1st iterator. 
+
+The original paper implement these code on MATLAB. You can find the original code here [[2]] (#2)
+![image](https://user-images.githubusercontent.com/16068098/230894187-398890cc-6352-4f0f-a6f8-1d2ded2f14af.png)
+
+## References 
+<a id = "1">[1]</a>
+N. Shervashidze, P. Schweitzer, E. J. van Leeuwen,
+K. Mehlhorn, and K. M. Borgwardt, Weisfeiler-
+lehman graph kernels, J. Mach. Learn. Res. 12,
+2539–2561 (2011), ISSN 1532-4435.
+<a id= "2">[2]</a> https://github.com/SiavashCS/CompRF/tree/master/graphkernels/labeled 
