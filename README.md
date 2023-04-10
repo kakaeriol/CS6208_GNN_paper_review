@@ -4,10 +4,10 @@ This code re-implementation the idea of Weisfeiler - Lehman Graph Kernal in pyth
 - Adding the verbose optional which can see the change of each label graph in 1st iterator. 
 ![image](https://user-images.githubusercontent.com/16068098/230894187-398890cc-6352-4f0f-a6f8-1d2ded2f14af.png)
 
-- We build the simple graph classification using these kernel compared to random walk kernel of GraKel library [[2]] (#3) 
+- We build the simple graph classification using these kernel compared to random walk kernel of GraKel library [[2]](#3) 
 The result show that the computational cost of WL kernel is similar but the time to performance of WL kernel is faster  
 
-The original paper implement these code on MATLAB. You can find the original code here [[2]] (#2).
+The original paper implement these code on MATLAB. You can find the original code here [[2]](#2).
 
 ## References 
 <a id = "1">[1]</a>
