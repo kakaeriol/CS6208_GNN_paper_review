@@ -14,8 +14,8 @@ The original paper implement these code on MATLAB. You can find the original cod
 N. Shervashidze, P. Schweitzer, E. J. van Leeuwen,
 K. Mehlhorn, and K. M. Borgwardt, Weisfeiler-
 lehman graph kernels, J. Mach. Learn. Res. 12,
-2539–2561 (2011), ISSN 1532-4435.
-<a id= "2">[2]</a> https://github.com/SiavashCS/CompRF/tree/master/graphkernels/labeled 
+2539–2561 (2011), ISSN 1532-4435. </br>
+<a id= "2">[2]</a> https://github.com/SiavashCS/CompRF/tree/master/graphkernels/labeled  </br>
 <a id= "3">[3]</a> G. Siglidis, G. Nikolentzos, S. Limnios, C. Giat-
 sidis, K. Skianis, and M. Vazirgiannis, Grakel: A
-graph kernel library in python, Journal of Machine Learning Research 21, 1 (2020).
+graph kernel library in python, Journal of Machine Learning Research 21, 1 (2020). </br>
